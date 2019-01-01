@@ -3,7 +3,7 @@ Smartcardcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/smartcardcoin-project/smartcardcoin.svg?branch=master)](https://travis-ci.org/smartcardcoin-project/smartcardcoin)
 
-https://smartcardcoin.org
+https://smartcardcoin.com
 
 What is Smartcardcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Smartcardcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Smartcardcoin Core software, see [https://smartcardcoin.org](https://smartcardcoin.org).
+the Smartcardcoin Core software, see [https://smartcardcoin.com](https://smartcardcoin.com).
 
 License
 -------
