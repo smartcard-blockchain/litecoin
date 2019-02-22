@@ -153,9 +153,9 @@ public:
                 {  1500, uint256S("0x6026e628188289b4b35b4e69dca7122e3d0e641b09f873d4fb62cdc89e3016aa")},
                 {  4032, uint256S("0x816a6c8cc70f78b0da235f3d8df25df31772ecdba3f08ea91301cfa2e72a5313")},
                 {  8064, uint256S("0x41edde041f061523123151a315941c3da8a5ee2edb6e16db9a09ee58f271460d")},
+                { 16128, uint256S("0x0d4c7b32a981a0908832dfe4f703197f5ca33bfd8418083b767412ff8b0576c6")},
+                { 23420, uint256S("0x13baad7f70a5a5d2d6e7112f0129ab5378eeb77ef537cf382ec6a3acfe2e187e")},
 /*
-                { 16128, uint256S("0x602edf1859b7f9a6af809f1d9b0e6cb66fdc1d4d9dcd7a4bec03e12a1ccd153d")},
-                { 23420, uint256S("0xd80fdf9ca81afd0bd2b2a90ac3a9fe547da58f2530ec874e978fce0b5101b507")},
                 { 50000, uint256S("0x69dc37eb029b68f075a5012dcc0419c127672adb4f3a32882b2b3e71d07a20a6")},
                 { 80000, uint256S("0x4fcb7c02f676a300503f49c764a89955a8f920b46a8cbecb4867182ecdb2e90a")},
                 {120000, uint256S("0xbd9d26924f05f6daa7f0155f32828ec89e8e29cee9e7121b026a7a3552ac6131")},
